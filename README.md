@@ -9,6 +9,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/kuoruan/shell-scri
 chmod +x ovz-bbr-installer.sh
 
 ./ovz-bbr-installer.sh
+
 #判断bbr是否正常启动可以尝试ping 10.0.0.2，如果能通，说明bbr已经启动。
 多端口加速
 安装的时候只配置了一个加速端口，但是你可以配置多端口加速，配置方法非常简单。修改文件
