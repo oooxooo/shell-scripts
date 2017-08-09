@@ -4,7 +4,7 @@ Linux Shell Scripts
 #OpenVZ平台Google BBR一键安装脚本,注意：安装失败的话，可能后台没有开启TUN/TAP
 使用方法，已测试通过的系统：Ubuntu 14.04 x64、Ubuntu 16.04 x64、CentOS 6 x64、CentOS 7 x64只支持64位系统，要求glibc版本2.14以上。
 
-wget --no-check-certificate https://raw.githubusercontent.com/kuoruan/shell-scripts/master/ovz-bbr/ovz-bbr-installer.sh
+wget --no-check-certificate https://raw.githubusercontent.com/oooxooo/shell-scripts/master/ovz-bbr/ovz-bbr-installer.sh
 
 chmod +x ovz-bbr-installer.sh
 
